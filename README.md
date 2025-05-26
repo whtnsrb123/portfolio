@@ -49,6 +49,7 @@ SDK 버전은 Compile SDK 34, Min SDK 28, Target SDK 34를 기반으로 합니�
 ⚙️ 개발은 Unity 2022.3.56f1과 C#으로 진행되었으며, GitHub를 통한 버전 관리와 Photon PUN을 이용한 네트워크 통신을 기반으로 합니다.  
 플랫폼은 PC입니다.  
   
+---
 
 ## 📫 Contact
 
