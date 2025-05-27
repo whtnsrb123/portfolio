@@ -35,7 +35,8 @@
 
 ⚙️ 개발은 Android Studio와 Java로 진행되었으며,   
 Gradle을 빌드 시스템으로 사용하고, 
-SDK 버전은 Compile SDK 34, Min SDK 28, Target SDK 34를 기반으로 합니다.  
+SDK 버전은 Compile SDK 34,  
+Min SDK 28, Target SDK 34를 기반으로 합니다.  
 
 ---
 
