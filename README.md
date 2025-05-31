@@ -20,8 +20,10 @@
 
 💻 **기술 스택**  : ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) 
+
 
 🏆 **수상/참여 경력**:  
    🥇 2016년 제27회 전국 ICT 창의성 대회 고등부 금상 - 서울 컴퓨터 교육 협의회  
