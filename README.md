@@ -18,7 +18,10 @@
 
 💡 **관심 분야**: 모바일 앱 개발, Unity 게임 개발, 알고리즘  
 
-💻 **주요 언어**: C(https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white), C++, Java, C#  
+💻 **기술 스택**  : ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) 
 
 🏆 **수상/참여 경력**:  
    🥇 2016년 제27회 전국 ICT 창의성 대회 고등부 금상 - 서울 컴퓨터 교육 협의회  
