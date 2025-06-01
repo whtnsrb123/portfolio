@@ -61,6 +61,12 @@ Min SDK 28, Target SDK 34를 기반으로 합니다.
   
 ---
 
+## 🔗 개인 프로젝트 목록
+📅 [메모 앱] (https://github.com/whtnsrb123/DateMark)
+
+
+---
+
 ## 📫 Contact
 
 - ✉️ Email: whtnsrb123@naver.com
