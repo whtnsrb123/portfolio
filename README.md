@@ -62,7 +62,8 @@ Min SDK 28, Target SDK 34를 기반으로 합니다.
 ---
 
 ## 🔗 개인 프로젝트 목록
-📅 [메모 앱] (https://github.com/whtnsrb123/DateMark)
+📅 [메모 앱] (https://github.com/whtnsrb123/DateMark)  
+   → 제작중 (2025.06.01 ~ )
 
 
 ---
