@@ -3,20 +3,13 @@
 
 # 💻 기술 스택  
 
-### 🗣️ 사용 언어
-- C#
-- JAVA
-- C/C++
-
-### 🛠️엔진 및 프레임워크
-- Unity 3D
-- Andro
-
-💻 기술 스택 : 
+### 🗣️ 언어  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
+
+### 🛠️엔진 및 프레임워크  
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
