@@ -13,7 +13,31 @@
    🥇 2017년 제28회 전국 ICT 창의성 대회 고등부 금상 - 서울 컴퓨터 교육 협의회 C++ 사용  
    🥉 2017년 제2회  국민대학교 알고리즘대회 장려상    - 국민대학교           C++ 사용  
    🥇 2018년 제29회 전국 ICT 창의성 대회 성인부 금상 - 서울 컴퓨터 교육 협의회 C++ 사용  
-   📃 2025년 정보처리기사 취득  
+   📜 2025년 정보처리기사 취득  
+
+💻 **프로젝트**:
+   🕹️ 2025년 [Unity 3인칭 멀티 협동 방탈출 게임](https://github.com/whtnsrb123/capstone-2025-17)  
+  → 이 프로젝트는 인형 공장에서 눈을 뜬 곰인형 캐릭터들이 **협력 플레이**를 통해 퍼즐을 풀고 탈출을 시도하는 3D 멀티플레이 퍼즐 어드벤처 게임입니다.  
+
+   🕹️ 장애물과 기믹이 배치된 환경에서 플레이어는 물에 젖거나 감시 NPC의 시선을 피해야 하며, 숨겨진 아이템을 활용해 탈출 경로를 개척해야 합니다.  
+
+   👥 최대 4인의 실시간 멀티플레이를 지원하며, 협동과 전략적인 플레이가 중심입니다.  
+
+   - 🎮 **주요 특징**: 실시간 멀티, 감시 회피, 기믹 해결, 아이템 사용  
+   - 🧱 **기술 스택**: Unity (2022.3.56f1), C#, Photon PUN  
+   - 🖥️ **플랫폼**: PC  
+
+---
+   📱 [모바일 프로젝트 Matting 프로젝트](https://github.com/whtnsrb123/mobile-project-matting)  
+ →
+ 이 프로젝트는 맛집 리뷰와 추천, **실시간 채팅**, **커뮤니티 게시판** 등을 포함한 모바일 커뮤니티 앱입니다.  
+
+📍위치 기반 맛집 검색, 개인 피드, 프로필 기능을 포함하며,  Firebase를 활용해 실시간 데이터베이스를 관리합니다.  
+
+- 📍 **주요 기능**: 위치 기반 검색, 사용자 피드, 프로필 기능  
+- 🔧 **기술 스택**: Java, Android Studio, Firebase Realtime Database  
+- ⚙️ **빌드 환경**: Compile SDK 34 / Min SDK 28 / Gradle 기반  
+   
 
 👨‍🏫 또한 실력을 인정 받아, 1년 반 동안 **코딩 학원 강사**로 C/C++ 중심의 교육을 진행했고, 학생부터 성인까지 다양한 연령층을 대상으로 실습 위주의 커리큘럼을 구성해 가르쳤습니다.  
 **알고리즘 대회 준비반 강의와 실전 문제풀이 지도 경험**은 저의 커뮤니케이션 능력과 문제 해결 역량을 더욱 높이는 계기가 되었습니다.  
@@ -35,42 +59,6 @@
 
 ---
 
-💡 **관심 분야**: Unity 게임 개발, 모바일 앱 개발, 알고리즘  
-
-💻 **기술 스택**  : ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) 
-
-
-
-## 🔗 프로젝트 목록
-
-🧸 [Unity 3인칭 멀티 협동 방탈출 게임](https://github.com/whtnsrb123/capstone-2025-17)  
-  → 이 프로젝트는 인형 공장에서 눈을 뜬 곰인형 캐릭터들이 **협력 플레이**를 통해 퍼즐을 풀고 탈출을 시도하는 3D 멀티플레이 퍼즐 어드벤처 게임입니다.  
-
-🕹️ 장애물과 기믹이 배치된 환경에서 플레이어는 물에 젖거나 감시 NPC의 시선을 피해야 하며, 숨겨진 아이템을 활용해 탈출 경로를 개척해야 합니다.  
-
-👥 최대 4인의 실시간 멀티플레이를 지원하며, 협동과 전략적인 플레이가 중심입니다.  
-
-- 🎮 **주요 특징**: 실시간 멀티, 감시 회피, 기믹 해결, 아이템 사용  
-- 🧱 **기술 스택**: Unity (2022.3.56f1), C#, Photon PUN  
-- 🖥️ **플랫폼**: PC  
-
----
-
-📱 [모바일 프로젝트 Matting 프로젝트](https://github.com/whtnsrb123/mobile-project-matting)  
- →
- 이 프로젝트는 맛집 리뷰와 추천, **실시간 채팅**, **커뮤니티 게시판** 등을 포함한 모바일 커뮤니티 앱입니다.  
-
-📍위치 기반 맛집 검색, 개인 피드, 프로필 기능을 포함하며,  Firebase를 활용해 실시간 데이터베이스를 관리합니다.  
-
-- 📍 **주요 기능**: 위치 기반 검색, 사용자 피드, 프로필 기능  
-- 🔧 **기술 스택**: Java, Android Studio, Firebase Realtime Database  
-- ⚙️ **빌드 환경**: Compile SDK 34 / Min SDK 28 / Gradle 기반
-
----
 
 ## 📫 Contact
 
