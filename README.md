@@ -12,11 +12,18 @@
 - Unity 3D
 - Andro
 
-💻 **기술 스택**  : ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+💻 기술 스택 : 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) 
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Photon PUN](https://img.shields.io/badge/Photon%20PUN-0082C9?style=flat&logo=data-transfer&logoColor=white)
+
 
 # 📝  Intro
 
