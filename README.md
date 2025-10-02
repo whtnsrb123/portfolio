@@ -66,7 +66,7 @@
    👥 최대 4인의 실시간 멀티플레이를 지원하며, 협동과 전략적인 플레이가 중심입니다.  
 
    - 🎮 **주요 특징**: 실시간 멀티, 감시 회피, 기믹 해결, 아이템 사용  
-   - 🧱 **기술 스택**: Unity (2022.3.56f1), C#, Photon PUN  
+   - 🔧 **기술 스택**: Unity (2022.3.56f1), C#, Photon PUN  
    - 🖥️ **플랫폼**: PC  
 
 ---  
@@ -76,9 +76,10 @@
 
 📍위치 기반 맛집 검색, 개인 피드, 프로필 기능을 포함하며,  Firebase를 활용해 실시간 데이터베이스를 관리합니다.  
 
-- 📍 **주요 기능**: 위치 기반 검색, 사용자 피드, 프로필 기능  
-- 🔧 **기술 스택**: Java, Android Studio, Firebase Realtime Database  
-- ⚙️ **빌드 환경**: Compile SDK 34 / Min SDK 28 / Gradle 기반  
+   - 📍 **주요 기능**: 위치 기반 검색, 사용자 피드, 프로필 기능  
+   - 🔧 **기술 스택**: Java, Android Studio, Firebase Realtime Database
+   - 📱 **플랫폼**: PC  
+   - ⚙️ **빌드 환경**: Compile SDK 34 / Min SDK 28 / Gradle 기반  
 
 
 ---
