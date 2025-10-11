@@ -1,5 +1,10 @@
 # 👋 조순규 포트폴리오
-### 조순규(SoonKyu - Cho) - 포트폴리오
+### Unity & Mobile 개발자
+
+**알고리즘 기반의 게임 개발자** | **Unity 3D & Android 전문** | **교육 경험으로 검증된 소통 능력**  
+
+3년 연속 전국 ICT 창의성 대회 금상 수상 경력을 바탕으로 한 **탄탄한 알고리즘 기초**와 **Unity 3D 게임 개발**, **Android 앱 개발** 실무 경험을 보유하고 있습니다.  
+1년 6개월간의 **코딩 강사 경험**을 통해 다양한 연령층과의 소통 능력과 **문제 해결 지도 역량**을 검증받았으며, **팀 프로젝트 리더** 경험으로 협업과 프로젝트 관리 능력을 갖추었습니다.  
 
 # 💻 기술 스택  
 
@@ -15,6 +20,19 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Photon PUN](https://img.shields.io/badge/Photon%20PUN-0082C9?style=flat&logo=data-transfer&logoColor=white)
+
+
+
+### 🗣️ **프로그래밍 언어**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) **5년+** | 알고리즘 대회 수상, 강사 경험  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) **2년+** | Unity 게임 개발, 객체지향 설계  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) **2년+** | Android 앱 개발, 모바일 프로젝트  
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) **3년+** | 시스템 프로그래밍 기초  
+
+### 🛠️ **게임 엔진 & 프레임워크**
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) **Unity 2022.3** | 3D 게임 개발, 멀티플레이  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) **Android SDK** | 모바일 앱 개발  
+![Photon PUN](https://img.shields.io/badge/Photon%20PUN-0082C9?style=flat&logo=data-transfer&logoColor=white) **실시간 멀티플레이** | 네트워킹  
 
 
 # 📝  Intro
