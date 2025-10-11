@@ -8,26 +8,12 @@
 
 # 💻 기술 스택  
 
-### 🗣️ 언어  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
-
-### 🛠️엔진 및 프레임워크  
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Photon PUN](https://img.shields.io/badge/Photon%20PUN-0082C9?style=flat&logo=data-transfer&logoColor=white)
-
-
 
 ### 🗣️ **프로그래밍 언어**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) **5년+** | 알고리즘 대회 수상, 강사 경험  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) **10년+** | 알고리즘 대회 수상, 강사 경험  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) **2년+** | Unity 게임 개발, 객체지향 설계  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) **2년+** | Android 앱 개발, 모바일 프로젝트  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) **3년+** | 시스템 프로그래밍 기초  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) **4년+** | Android 앱 개발, 모바일 프로젝트  
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) **10년+** | 알고리즘 대회 수상, 강사 경험  
 
 ### 🛠️ **게임 엔진 & 프레임워크**
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) **Unity 2022.3** | 3D 게임 개발, 멀티플레이  
