@@ -73,8 +73,7 @@
 
 ## 🚀 **프로젝트**:  
 
-### 🎮 Unity 3인칭 멀티 협동 방탈출 게임  `2025.01 ~ 2025.06`
-    [Repository](https://github.com/whtnsrb123/capstone-2025-17)
+### 🎮 [Unity 3인칭 멀티 협동 방탈출 게임](https://github.com/whtnsrb123/capstone-2025-17)  `2025.01 ~ 2025.06`
   → 이 프로젝트는 인형 공장에서 눈을 뜬 곰인형 캐릭터들이 **협력 플레이**를 통해 퍼즐을 풀고 탈출을 시도하는 3D 멀티플레이 퍼즐 어드벤처 게임입니다.  
 
 **📋 프로젝트 개요**
@@ -96,8 +95,7 @@
 ---
 
  
-### 📱 **Matting 모바일 앱** `2024.03 ~ 2024.06`
-    [Repository](https://github.com/whtnsrb123/mobile-project-matting)
+### 📱 [Matting 모바일 앱](https://github.com/whtnsrb123/mobile-project-matting)  `2024.03 ~ 2024.06`
   → 네이버 지도 API와 Firebase를 활용하여 내 주변 맛집 정보를 탐색하고, 새로운 사람들과 약속을 잡고, 인스타그램 스타일의 피드와 팔로우 기능까지 제공하는 Android 플랫폼 맛집 커뮤니티 애플리케이션입니다.
 
 **📋 프로젝트 개요**
